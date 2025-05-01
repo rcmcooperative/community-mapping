@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  RCM Cooperative Community Mapping Workflow
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cassandra
+    family-names: Gould van Praag
+    email: cassandra.gouldvanpraag@rcmcooperative.com
+    affiliation: RCM Cooperative
+    orcid: 'https://orcid.org/0000-0002-8584-4637'
+  - {}
+identifiers:
+  - type: doi
+    value: 
+repository-code: >-
+  https://github.com/rcmcooperative/community-mapping
+abstract: >-
+  This repository contains open materials developed by Cassandra Gould van Praag intially for the Alan Turing Institute Turing Research and Innovation Cluster for Digital Twins (TRIC-DT). Materials were subsequently extended for the Environment and Sustainability Grand Challenge, and the data structure marginally extended all the Data Safe Haven (DSH) project. 
+  These materials will be further developed by the author for activites undertaken by the RCM Cooperative.
+license: CC-BY-4.0
+version: v1.0.0
+date-released: '2025-05-01'

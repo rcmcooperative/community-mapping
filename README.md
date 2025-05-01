@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15320348.svg)](https://doi.org/10.5281/zenodo.15320348)
+
+
 # Community mapping docs
 Note: We are moving away from use of the term "stakeholder" due to its colonial origin. That term still appears in these documents, but will be replaced with alternative language when possible. 
 # README
@@ -22,7 +25,7 @@ These files aren't used, but are kept for future reference!
 4. [Code to compare the list of slack users downloded to those I'd added with a "slack" interaction](./compare-list-slack-sharepoint.py) - This was used when I was making sure I'd added everyone with slack interaction
 
 # CITATION
-Please cite as 10.5281/zenodo.15320348
+Gould van Praag, C. (2025). RCM Cooperative Community Mapping Workflow. Zenodo. https://doi.org/10.5281/zenodo.15320348
 
 # LICENSE
 - Code is released on an MIT license.

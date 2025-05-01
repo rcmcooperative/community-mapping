@@ -10,12 +10,13 @@ This is a dump of very untidy materials! It will likely be improved the next tim
 Suggested order of use:
 1. [Why we map](./why-map.md)
 2. [How we map](./how-we-map.md)
-3. [Sharepoint list settings](./how-we-map-sharepoint-lists.md)
-4. [Code to convert sharepoint downloads to *xlsx* kumu structure](./sharepoint-to-kumu-xlsx.py)
-5. [Kumu display settings - internal](./kumu-display-settings-internal) - this is a dump of the kumu syntax for display settings used in the Turing E&S *internal* map
-6. [Kumu display settings - public](./kumu-display-settings-internal) - this is a dump of the kumu syntax for display settings used in the Turing E&S *public* map
-7. [Image used for the Kumu presentation front cover](./kumu-public-cover.png)
-8. [Kumu presentation slide text](./kumu-descriptions.md)
+3. [Data flow overview](./stakeholder-map-process-workflow.pdf) - this shows how data is integrated over different sources. Ticks show the bits which are operational! (There is still lots of work to do!)
+4. [Sharepoint list settings](./how-we-map-sharepoint-lists.md)
+5. [Code to convert sharepoint downloads to *xlsx* kumu structure](./sharepoint-to-kumu-xlsx.py)
+6. [Kumu display settings - internal](./kumu-display-settings-internal) - this is a dump of the kumu syntax for display settings used in the Turing E&S *internal* map
+7. [Kumu display settings - public](./kumu-display-settings-internal) - this is a dump of the kumu syntax for display settings used in the Turing E&S *public* map
+8. [Image used for the Kumu presentation front cover](./kumu-public-cover.png)
+9. [Kumu presentation slide text](./kumu-descriptions.md)
 
 
 These files aren't used, but are kept for future reference!

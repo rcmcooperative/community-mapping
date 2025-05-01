@@ -21,6 +21,9 @@ These files aren't used, but are kept for future reference!
 3. [pptx I used to develop the kumu cover images](./images-dev.pptx)
 4. [Code to compare the list of slack users downloded to those I'd added with a "slack" interaction](./compare-list-slack-sharepoint.py) - This was used when I was making sure I'd added everyone with slack interaction
 
+# CITATION
+Please cite as 10.5281/zenodo.15320348
+
 # LICENSE
 - Code is released on an MIT license.
 - Documentation is released on a CC-BY-4.0 license

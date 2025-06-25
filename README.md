@@ -5,6 +5,7 @@
 # Community mapping docs
 
 Note: We are moving away from use of the term "stakeholder" due to its colonial origin. That term still appears in these documents, but will be replaced with alternative language when possible. 
+
 # README
 
 These materials were developed alongside the [Alan Turing Instute Environment and Sustianabilty Grand Challenge Stakeholer Map](https://cassgvp.kumu.io/alan-turing-institute-environment-and-sustainability). This map may no longer be updated or maintained. 

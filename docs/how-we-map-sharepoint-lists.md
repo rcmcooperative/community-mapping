@@ -16,6 +16,21 @@ Other complex calculation or validation is also changed via the global list sett
 - [Valuse (countries) list](#values)
 ---
 
+## Notes to integrate from trying to remake a set of sharepoint lists for TOSI
+- Title column
+    - cannot delete title field, but I think it's not used in the code
+    - suggest not renmaing it to something useful as it has restricted properties
+    - In stead to not use it, go to "add a new item" to the form, click "edit form" (top right) > "edit columns" then untick "title" > "save"
+- Modified by etc
+    - click "add column" > "show/hide columns"
+    - tick created, modified, created by, modified by
+- might be that only the list owner can rename columns they have made?
+    - wasn't able to rename look-up columns made by Luisa
+- As a guest, I wasn't able to create lookups to Luisa's other lists
+
+
+
+
 
 ## People
 
